@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "4.17.1",
+    "fibers": "4.0.2",
+    "mysql": "2.18.1",
+    "socket.io": "2.3.0"
+  }
+}
