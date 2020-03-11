@@ -10,8 +10,8 @@ var LOCAL_IP = 'localhost';
 exports.mysql = function(){
 	return {
 		HOST:'127.0.0.1',
-		USER:'root',
-		PSWD:'123456',//如果连接失败，请检查这里
+		USER:'scmj',
+		PSWD:'ddam.scmj',//如果连接失败，请检查这里
 		DB:'db_scmj',//如果连接失败，请检查这里
 		PORT:3306,
 	}

@@ -2,6 +2,7 @@
   "android-instant": {
     "REMOTE_SERVER_ROOT": "",
     "host": "",
+    "packageName": "com.babykylin.qpgames",
     "pathPattern": "",
     "recordPath": "",
     "scheme": "https",
@@ -43,5 +44,16 @@
     "subContext": ""
   },
   "xxteaKey": "a56d41f1-8905-45",
-  "zipCompressJs": true
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.babykylin.qpgames"
+  },
+  "ios": {
+    "packageName": "com.babykylin.qpgames"
+  },
+  "mac": {
+    "packageName": "com.babykylin.qpgames"
+  },
+  "win32": {},
+  "appBundle": false
 }
